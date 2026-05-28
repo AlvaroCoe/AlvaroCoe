@@ -5,9 +5,9 @@
   </a>
 </p>
 
-<!-- Título e Introdução com Foto do Perfil Redonda -->
+<!-- Foto do Perfil Redonda Sincronizada com o GitHub -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/104033379?v=4" alt="Alvaro Coelho" width="125" style="border-radius: 50%; border: 2px solid #36BC7F;">
+  <img src="https://github.com/AlvaroCoe.png" alt="Alvaro Coelho" width="125" style="border-radius: 50%; border: 2px solid #36BC7F;">
 </p>
 
 <h1 align="center">Alvaro Coelho 👋</h1>
