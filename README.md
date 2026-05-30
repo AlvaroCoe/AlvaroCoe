@@ -1,14 +1,4 @@
-<!-- Card Animado de Boas-Vindas (Efeito Digitando / Tech Theme) -->
-<p align="center">
-  <a href="https://github.com/AlvaroCoe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BC7F&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Alvaro!;Desenvolvedor+Sistemas;Entusiasta+Backend;Construindo+APIs+Robustas..." alt="Typing SVG" />
-  </a>
-</p>
 
-<!-- Foto do Perfil Redonda Sincronizada com o GitHub -->
-<p align="center">
-  <img src="https://github.com/AlvaroCoe.png" alt="Alvaro Coelho" width="125" style="border-radius: 50%; border: 2px solid #36BC7F;">
-</p>
 
 <h1 align="center">Alvaro Coelho 👋</h1>
 
