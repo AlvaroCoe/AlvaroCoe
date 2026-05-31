@@ -21,6 +21,7 @@ Minha stack principal enriquecida com as ferramentas que utilizo para resolver p
 <details open>
 <summary>💻 Desenvolvimento Backend (Foco Principal)</summary>
 
+
 *   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"> **Java (LTS 25):** Aplicação prática de POO avançada, estruturas de dados sólidas e lógica voltada à resolução de problemas acadêmicos e corporativos.
 
 *   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"> **Spring Boot Framework:** Criação de arquiteturas robustas baseadas em camadas, controle de fluxos de requisição e injeção de dependências eficiente.
@@ -33,6 +34,7 @@ Minha stack principal enriquecida com as ferramentas que utilizo para resolver p
 <details open>
 <summary>🗄️ Infraestrutura, Banco de Dados & Testes</summary>
 
+
 *   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> **Docker & Docker Compose:** Orquestração de ambientes locais isolados através de containers, garantindo consistência no deploy e execução ágil de dependências de infraestrutura.
 
 *   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> **MySQL:** Modelagem de dados relacional completa, criação de tabelas, relacionamentos estruturados e consultas integradas diretamente em ambientes containerizados.
@@ -43,6 +45,7 @@ Minha stack principal enriquecida com as ferramentas que utilizo para resolver p
 
 <details>
 <summary>🌐 Desenvolvimento Frontend & Ambiente de Trabalho</summary>
+
 
 *   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> **JavaScript:** Manipulação de lógica voltada ao navegador, interatividade na interface e consumo dinâmico de APIs Rest.
 
@@ -59,9 +62,11 @@ Minha stack principal enriquecida com as ferramentas que utilizo para resolver p
 <details>
 <summary>🧠 Soft Skills, Exatas & Negócios</summary>
 
+
 *   <img src="https://img.shields.io/badge/Exatas-222?style=flat" alt="Exatas"> **Ciências Exatas & Lógica:** Forte aptidão analítica e facilidade natural com números para modelagem de algoritmos lógicos e cálculos estruturados.
 
 *   <img src="https://img.shields.io/badge/Administra%C3%A7%C3%A3o-222?style=flat" alt="Adm"> **Gestão & Administração:** Noções organizacionais aplicadas ao controle de processos, planejamento de tarefas em equipe e fluxogramas de atividades.
+
 </details>
 
 ---
